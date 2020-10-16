@@ -1,0 +1,4 @@
+springdoc:
+  pathsToMatch: /tree
+  apiDocs:
+    path: /api-docs/v3
